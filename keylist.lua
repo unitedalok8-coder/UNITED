@@ -11,10 +11,10 @@ return {
         SLOT = "1"
     },
     ["DEMO123"] = {
-        type = "DEMO",
-        expiry = "2026-08-01",
+        type = "VIPUNITEDTRYLE",
+        expiry = "2026-10-08",
         valid = true,
-        max_devices = 5,
+        max_devices = 50,
         SLOT = "2"
     },
     ["SINGLE_USER"] = {
